@@ -5,18 +5,18 @@ body {
 }
 
 .wrapper {
-    width: 1100px;
+    width: 700px;
     margin: 100px auto;
     color: #D3D0CB;
     text-align: center;
 }
 h1,h2,h3 {
     font-family:'Lugatype', sans-serif;
-    font-weight: 130px;
-    font-size: 5.5em;
+    font-weight: 90px;
+    font-size: 4.5em;
 }
 #seconds, .dots, #tens  {
-    font-size: 4em;
+    font-size: 3em;
     font-weight: normal;
 }
 button {
@@ -26,14 +26,14 @@ button {
     border: solid 2px #D3D0CB;
     text-decoration: none;
     cursor: pointer;
-    font-size: 2.2em;
+    font-size: 1.2em;
     padding-top: 2px;
     padding-bottom: 2px;
     padding-left: 8px;
     padding-right: 8px;
-    width: 220px;
+    width: 180px;
     margin: 3px;
-    margin-top: 60px;
+    margin-top: 30px;
     outline: none;
 }
 button:hover {
